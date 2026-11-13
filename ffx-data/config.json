@@ -9,7 +9,9 @@
     "default:Banner 1.jpg"
   ],
   "quick": null,
-  "images": null,
+  "images": {
+    "pop": "img-pop-1794565950882.png"
+  },
   "prod": {
     "uid": {
       "rules": [
